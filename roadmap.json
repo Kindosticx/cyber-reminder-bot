@@ -1,0 +1,676 @@
+{
+  "days": [
+    {
+      "day": 1,
+      "date": "2025-07-14",
+      "title": "Day 1: Lab Setup + Pentest Foundations",
+      "task": "Install Kali Linux & Metasploitable",
+      "video": "https://youtube.com/results?search_query=Install+Kali+Linux+&+Metasploitable",
+      "lab": "https://google.com/search?q=Install+Kali+Linux+&+Metasploitable"
+    },
+    {
+      "day": 2,
+      "date": "2025-07-15",
+      "title": "Day 2: Lab Setup + Pentest Foundations",
+      "task": "Set up Burp Suite, FoxyProxy",
+      "video": "https://youtube.com/results?search_query=Set+up+Burp+Suite,+FoxyProxy",
+      "lab": "https://google.com/search?q=Set+up+Burp+Suite,+FoxyProxy"
+    },
+    {
+      "day": 3,
+      "date": "2025-07-16",
+      "title": "Day 3: Lab Setup + Pentest Foundations",
+      "task": "Intro to PenTest Methodologies",
+      "video": "https://youtube.com/results?search_query=Intro+to+PenTest+Methodologies",
+      "lab": "https://google.com/search?q=Intro+to+PenTest+Methodologies"
+    },
+    {
+      "day": 4,
+      "date": "2025-07-17",
+      "title": "Day 4: Lab Setup + Pentest Foundations",
+      "task": "Understanding IP, DNS, and Ports",
+      "video": "https://youtube.com/results?search_query=Understanding+IP,+DNS,+and+Ports",
+      "lab": "https://google.com/search?q=Understanding+IP,+DNS,+and+Ports"
+    },
+    {
+      "day": 5,
+      "date": "2025-07-18",
+      "title": "Day 5: Lab Setup + Pentest Foundations",
+      "task": "Lab: OWASP Top 10 Overview",
+      "video": "https://youtube.com/results?search_query=Lab:+OWASP+Top+10+Overview",
+      "lab": "https://tryhackme.com/"
+    },
+    {
+      "day": 6,
+      "date": "2025-07-19",
+      "title": "Day 6: Lab Setup + Pentest Foundations",
+      "task": "Watch: Pentesting Mindset & Career Path",
+      "video": "https://youtube.com/results?search_query=Watch:+Pentesting+Mindset+&+Career+Path",
+      "lab": "https://google.com/search?q=Watch:+Pentesting+Mindset+&+Career+Path"
+    },
+    {
+      "day": 7,
+      "date": "2025-07-20",
+      "title": "Day 7: Lab Setup + Pentest Foundations",
+      "task": "Hands-on Recap + Practice",
+      "video": "https://youtube.com/results?search_query=Hands-on+Recap+++Practice",
+      "lab": "https://google.com/search?q=Hands-on+Recap+++Practice"
+    },
+    {
+      "day": 8,
+      "date": "2025-07-21",
+      "title": "Day 8: Recon & Enumeration",
+      "task": "Passive Recon with Whois, NSLookup",
+      "video": "https://youtube.com/results?search_query=Passive+Recon+with+Whois,+NSLookup",
+      "lab": "https://google.com/search?q=Passive+Recon+with+Whois,+NSLookup"
+    },
+    {
+      "day": 9,
+      "date": "2025-07-22",
+      "title": "Day 9: Recon & Enumeration",
+      "task": "Google Hacking & Metadata Discovery",
+      "video": "https://youtube.com/results?search_query=Google+Hacking+&+Metadata+Discovery",
+      "lab": "https://google.com/search?q=Google+Hacking+&+Metadata+Discovery"
+    },
+    {
+      "day": 10,
+      "date": "2025-07-23",
+      "title": "Day 10: Recon & Enumeration",
+      "task": "Active Recon: Nmap Basic Scans",
+      "video": "https://youtube.com/results?search_query=Active+Recon:+Nmap+Basic+Scans",
+      "lab": "https://google.com/search?q=Active+Recon:+Nmap+Basic+Scans"
+    },
+    {
+      "day": 11,
+      "date": "2025-07-24",
+      "title": "Day 11: Recon & Enumeration",
+      "task": "Advanced Nmap: NSE Scripts & OS Detection",
+      "video": "https://youtube.com/results?search_query=Advanced+Nmap:+NSE+Scripts+&+OS+Detection",
+      "lab": "https://google.com/search?q=Advanced+Nmap:+NSE+Scripts+&+OS+Detection"
+    },
+    {
+      "day": 12,
+      "date": "2025-07-25",
+      "title": "Day 12: Recon & Enumeration",
+      "task": "Service Enumeration: SMB, FTP, SSH",
+      "video": "https://youtube.com/results?search_query=Service+Enumeration:+SMB,+FTP,+SSH",
+      "lab": "https://google.com/search?q=Service+Enumeration:+SMB,+FTP,+SSH"
+    },
+    {
+      "day": 13,
+      "date": "2025-07-26",
+      "title": "Day 13: Recon & Enumeration",
+      "task": "Hands-on: DNS, Subdomain Enumeration",
+      "video": "https://youtube.com/results?search_query=Hands-on:+DNS,+Subdomain+Enumeration",
+      "lab": "https://google.com/search?q=Hands-on:+DNS,+Subdomain+Enumeration"
+    },
+    {
+      "day": 14,
+      "date": "2025-07-27",
+      "title": "Day 14: Recon & Enumeration",
+      "task": "Week Recap + TryHackMe Lab",
+      "video": "https://youtube.com/results?search_query=Week+Recap+++TryHackMe+Lab",
+      "lab": "https://tryhackme.com/"
+    },
+    {
+      "day": 15,
+      "date": "2025-07-28",
+      "title": "Day 15: Vulnerability Scanning + Exploits",
+      "task": "Intro to Vuln Scanning (Nessus, OpenVAS)",
+      "video": "https://youtube.com/results?search_query=Intro+to+Vuln+Scanning+(Nessus,+OpenVAS)",
+      "lab": "https://google.com/search?q=Intro+to+Vuln+Scanning+(Nessus,+OpenVAS)"
+    },
+    {
+      "day": 16,
+      "date": "2025-07-29",
+      "title": "Day 16: Vulnerability Scanning + Exploits",
+      "task": "Hands-on: Nikto, Nuclei",
+      "video": "https://youtube.com/results?search_query=Hands-on:+Nikto,+Nuclei",
+      "lab": "https://google.com/search?q=Hands-on:+Nikto,+Nuclei"
+    },
+    {
+      "day": 17,
+      "date": "2025-07-30",
+      "title": "Day 17: Vulnerability Scanning + Exploits",
+      "task": "Metasploit Framework Basics",
+      "video": "https://youtube.com/results?search_query=Metasploit+Framework+Basics",
+      "lab": "https://google.com/search?q=Metasploit+Framework+Basics"
+    },
+    {
+      "day": 18,
+      "date": "2025-07-31",
+      "title": "Day 18: Vulnerability Scanning + Exploits",
+      "task": "Exploit Database & Manual Exploits",
+      "video": "https://youtube.com/results?search_query=Exploit+Database+&+Manual+Exploits",
+      "lab": "https://google.com/search?q=Exploit+Database+&+Manual+Exploits"
+    },
+    {
+      "day": 19,
+      "date": "2025-08-01",
+      "title": "Day 19: Vulnerability Scanning + Exploits",
+      "task": "Reverse Shells with Netcat & Bash",
+      "video": "https://youtube.com/results?search_query=Reverse+Shells+with+Netcat+&+Bash",
+      "lab": "https://google.com/search?q=Reverse+Shells+with+Netcat+&+Bash"
+    },
+    {
+      "day": 20,
+      "date": "2025-08-02",
+      "title": "Day 20: Vulnerability Scanning + Exploits",
+      "task": "Payload Obfuscation Basics",
+      "video": "https://youtube.com/results?search_query=Payload+Obfuscation+Basics",
+      "lab": "https://google.com/search?q=Payload+Obfuscation+Basics"
+    },
+    {
+      "day": 21,
+      "date": "2025-08-03",
+      "title": "Day 21: Vulnerability Scanning + Exploits",
+      "task": "Practice: Exploitation Workflow",
+      "video": "https://youtube.com/results?search_query=Practice:+Exploitation+Workflow",
+      "lab": "https://google.com/search?q=Practice:+Exploitation+Workflow"
+    },
+    {
+      "day": 22,
+      "date": "2025-08-04",
+      "title": "Day 22: Web App Hacking \u2013 Part 1",
+      "task": "OWASP Top 10 Breakdown",
+      "video": "https://youtube.com/results?search_query=OWASP+Top+10+Breakdown",
+      "lab": "https://google.com/search?q=OWASP+Top+10+Breakdown"
+    },
+    {
+      "day": 23,
+      "date": "2025-08-05",
+      "title": "Day 23: Web App Hacking \u2013 Part 1",
+      "task": "Intro to Burp Suite + Proxy Setup",
+      "video": "https://youtube.com/results?search_query=Intro+to+Burp+Suite+++Proxy+Setup",
+      "lab": "https://google.com/search?q=Intro+to+Burp+Suite+++Proxy+Setup"
+    },
+    {
+      "day": 24,
+      "date": "2025-08-06",
+      "title": "Day 24: Web App Hacking \u2013 Part 1",
+      "task": "Lab: Information Disclosure & IDOR",
+      "video": "https://youtube.com/results?search_query=Lab:+Information+Disclosure+&+IDOR",
+      "lab": "https://tryhackme.com/"
+    },
+    {
+      "day": 25,
+      "date": "2025-08-07",
+      "title": "Day 25: Web App Hacking \u2013 Part 1",
+      "task": "Authentication Flaws + Broken Access Control",
+      "video": "https://youtube.com/results?search_query=Authentication+Flaws+++Broken+Access+Control",
+      "lab": "https://google.com/search?q=Authentication+Flaws+++Broken+Access+Control"
+    },
+    {
+      "day": 26,
+      "date": "2025-08-08",
+      "title": "Day 26: Web App Hacking \u2013 Part 1",
+      "task": "SQL Injection: Manual + Burp",
+      "video": "https://youtube.com/results?search_query=SQL+Injection:+Manual+++Burp",
+      "lab": "https://google.com/search?q=SQL+Injection:+Manual+++Burp"
+    },
+    {
+      "day": 27,
+      "date": "2025-08-09",
+      "title": "Day 27: Web App Hacking \u2013 Part 1",
+      "task": "SQLi Lab: TryHackMe or PortSwigger",
+      "video": "https://youtube.com/results?search_query=SQLi+Lab:+TryHackMe+or+PortSwigger",
+      "lab": "https://tryhackme.com/"
+    },
+    {
+      "day": 28,
+      "date": "2025-08-10",
+      "title": "Day 28: Web App Hacking \u2013 Part 1",
+      "task": "Week Recap + Cheatsheet Review",
+      "video": "https://youtube.com/results?search_query=Week+Recap+++Cheatsheet+Review",
+      "lab": "https://google.com/search?q=Week+Recap+++Cheatsheet+Review"
+    },
+    {
+      "day": 29,
+      "date": "2025-08-11",
+      "title": "Day 29: Web App Hacking \u2013 Part 2",
+      "task": "XSS Types: Stored, Reflected, DOM",
+      "video": "https://youtube.com/results?search_query=XSS+Types:+Stored,+Reflected,+DOM",
+      "lab": "https://google.com/search?q=XSS+Types:+Stored,+Reflected,+DOM"
+    },
+    {
+      "day": 30,
+      "date": "2025-08-12",
+      "title": "Day 30: Web App Hacking \u2013 Part 2",
+      "task": "XSS with Burp + Browser DevTools",
+      "video": "https://youtube.com/results?search_query=XSS+with+Burp+++Browser+DevTools",
+      "lab": "https://google.com/search?q=XSS+with+Burp+++Browser+DevTools"
+    },
+    {
+      "day": 31,
+      "date": "2025-08-13",
+      "title": "Day 31: Web App Hacking \u2013 Part 2",
+      "task": "Broken Session Management",
+      "video": "https://youtube.com/results?search_query=Broken+Session+Management",
+      "lab": "https://google.com/search?q=Broken+Session+Management"
+    },
+    {
+      "day": 32,
+      "date": "2025-08-14",
+      "title": "Day 32: Web App Hacking \u2013 Part 2",
+      "task": "Command Injection & File Upload Vulns",
+      "video": "https://youtube.com/results?search_query=Command+Injection+&+File+Upload+Vulns",
+      "lab": "https://google.com/search?q=Command+Injection+&+File+Upload+Vulns"
+    },
+    {
+      "day": 33,
+      "date": "2025-08-15",
+      "title": "Day 33: Web App Hacking \u2013 Part 2",
+      "task": "HTML Injection & Open Redirect",
+      "video": "https://youtube.com/results?search_query=HTML+Injection+&+Open+Redirect",
+      "lab": "https://google.com/search?q=HTML+Injection+&+Open+Redirect"
+    },
+    {
+      "day": 34,
+      "date": "2025-08-16",
+      "title": "Day 34: Web App Hacking \u2013 Part 2",
+      "task": "Lab Day: Burp + PortSwigger",
+      "video": "https://youtube.com/results?search_query=Lab+Day:+Burp+++PortSwigger",
+      "lab": "https://tryhackme.com/"
+    },
+    {
+      "day": 35,
+      "date": "2025-08-17",
+      "title": "Day 35: Web App Hacking \u2013 Part 2",
+      "task": "CTF Challenge: Web Vuln Box",
+      "video": "https://youtube.com/results?search_query=CTF+Challenge:+Web+Vuln+Box",
+      "lab": "https://google.com/search?q=CTF+Challenge:+Web+Vuln+Box"
+    },
+    {
+      "day": 36,
+      "date": "2025-08-18",
+      "title": "Day 36: Phishing + Social Engineering",
+      "task": "Phishing Basics + Psychology",
+      "video": "https://youtube.com/results?search_query=Phishing+Basics+++Psychology",
+      "lab": "https://google.com/search?q=Phishing+Basics+++Psychology"
+    },
+    {
+      "day": 37,
+      "date": "2025-08-19",
+      "title": "Day 37: Phishing + Social Engineering",
+      "task": "Gophish Setup + Campaign Walkthrough",
+      "video": "https://youtube.com/results?search_query=Gophish+Setup+++Campaign+Walkthrough",
+      "lab": "https://google.com/search?q=Gophish+Setup+++Campaign+Walkthrough"
+    },
+    {
+      "day": 38,
+      "date": "2025-08-20",
+      "title": "Day 38: Phishing + Social Engineering",
+      "task": "Create Custom Templates",
+      "video": "https://youtube.com/results?search_query=Create+Custom+Templates",
+      "lab": "https://google.com/search?q=Create+Custom+Templates"
+    },
+    {
+      "day": 39,
+      "date": "2025-08-21",
+      "title": "Day 39: Phishing + Social Engineering",
+      "task": "Bypass Email Filters (HTML, Links)",
+      "video": "https://youtube.com/results?search_query=Bypass+Email+Filters+(HTML,+Links)",
+      "lab": "https://google.com/search?q=Bypass+Email+Filters+(HTML,+Links)"
+    },
+    {
+      "day": 40,
+      "date": "2025-08-22",
+      "title": "Day 40: Phishing + Social Engineering",
+      "task": "SET Toolkit Phishing Simulation",
+      "video": "https://youtube.com/results?search_query=SET+Toolkit+Phishing+Simulation",
+      "lab": "https://google.com/search?q=SET+Toolkit+Phishing+Simulation"
+    },
+    {
+      "day": 41,
+      "date": "2025-08-23",
+      "title": "Day 41: Phishing + Social Engineering",
+      "task": "Credential Harvesting Labs",
+      "video": "https://youtube.com/results?search_query=Credential+Harvesting+Labs",
+      "lab": "https://tryhackme.com/"
+    },
+    {
+      "day": 42,
+      "date": "2025-08-24",
+      "title": "Day 42: Phishing + Social Engineering",
+      "task": "Mock Campaign Recap",
+      "video": "https://youtube.com/results?search_query=Mock+Campaign+Recap",
+      "lab": "https://google.com/search?q=Mock+Campaign+Recap"
+    },
+    {
+      "day": 43,
+      "date": "2025-08-25",
+      "title": "Day 43: Linux Privilege Escalation",
+      "task": "Linux Enumeration with LinPEAS",
+      "video": "https://youtube.com/results?search_query=Linux+Enumeration+with+LinPEAS",
+      "lab": "https://google.com/search?q=Linux+Enumeration+with+LinPEAS"
+    },
+    {
+      "day": 44,
+      "date": "2025-08-26",
+      "title": "Day 44: Linux Privilege Escalation",
+      "task": "GTFOBins + Sudo Misconfigurations",
+      "video": "https://youtube.com/results?search_query=GTFOBins+++Sudo+Misconfigurations",
+      "lab": "https://google.com/search?q=GTFOBins+++Sudo+Misconfigurations"
+    },
+    {
+      "day": 45,
+      "date": "2025-08-27",
+      "title": "Day 45: Linux Privilege Escalation",
+      "task": "Cronjob & Path Hijack PrivEsc",
+      "video": "https://youtube.com/results?search_query=Cronjob+&+Path+Hijack+PrivEsc",
+      "lab": "https://google.com/search?q=Cronjob+&+Path+Hijack+PrivEsc"
+    },
+    {
+      "day": 46,
+      "date": "2025-08-28",
+      "title": "Day 46: Linux Privilege Escalation",
+      "task": "Kernel Exploits + Dirty COW",
+      "video": "https://youtube.com/results?search_query=Kernel+Exploits+++Dirty+COW",
+      "lab": "https://google.com/search?q=Kernel+Exploits+++Dirty+COW"
+    },
+    {
+      "day": 47,
+      "date": "2025-08-29",
+      "title": "Day 47: Linux Privilege Escalation",
+      "task": "SUID Abuse + Capabilities",
+      "video": "https://youtube.com/results?search_query=SUID+Abuse+++Capabilities",
+      "lab": "https://google.com/search?q=SUID+Abuse+++Capabilities"
+    },
+    {
+      "day": 48,
+      "date": "2025-08-30",
+      "title": "Day 48: Linux Privilege Escalation",
+      "task": "Practice Room: TryHackMe",
+      "video": "https://youtube.com/results?search_query=Practice+Room:+TryHackMe",
+      "lab": "https://tryhackme.com/"
+    },
+    {
+      "day": 49,
+      "date": "2025-08-31",
+      "title": "Day 49: Linux Privilege Escalation",
+      "task": "Review: PrivEsc Checklists",
+      "video": "https://youtube.com/results?search_query=Review:+PrivEsc+Checklists",
+      "lab": "https://google.com/search?q=Review:+PrivEsc+Checklists"
+    },
+    {
+      "day": 50,
+      "date": "2025-09-01",
+      "title": "Day 50: Windows Privilege Escalation",
+      "task": "WinPEAS + PowerUp Scripts",
+      "video": "https://youtube.com/results?search_query=WinPEAS+++PowerUp+Scripts",
+      "lab": "https://google.com/search?q=WinPEAS+++PowerUp+Scripts"
+    },
+    {
+      "day": 51,
+      "date": "2025-09-02",
+      "title": "Day 51: Windows Privilege Escalation",
+      "task": "Unquoted Path Vulns + Services",
+      "video": "https://youtube.com/results?search_query=Unquoted+Path+Vulns+++Services",
+      "lab": "https://google.com/search?q=Unquoted+Path+Vulns+++Services"
+    },
+    {
+      "day": 52,
+      "date": "2025-09-03",
+      "title": "Day 52: Windows Privilege Escalation",
+      "task": "Token Impersonation & DLL Hijacking",
+      "video": "https://youtube.com/results?search_query=Token+Impersonation+&+DLL+Hijacking",
+      "lab": "https://google.com/search?q=Token+Impersonation+&+DLL+Hijacking"
+    },
+    {
+      "day": 53,
+      "date": "2025-09-04",
+      "title": "Day 53: Windows Privilege Escalation",
+      "task": "UAC Bypass Techniques",
+      "video": "https://youtube.com/results?search_query=UAC+Bypass+Techniques",
+      "lab": "https://google.com/search?q=UAC+Bypass+Techniques"
+    },
+    {
+      "day": 54,
+      "date": "2025-09-05",
+      "title": "Day 54: Windows Privilege Escalation",
+      "task": "Hands-on: HackTheBox or TryHackMe",
+      "video": "https://youtube.com/results?search_query=Hands-on:+HackTheBox+or+TryHackMe",
+      "lab": "https://tryhackme.com/"
+    },
+    {
+      "day": 55,
+      "date": "2025-09-06",
+      "title": "Day 55: Windows Privilege Escalation",
+      "task": "Windows Tools: Sysinternals, AccessChk",
+      "video": "https://youtube.com/results?search_query=Windows+Tools:+Sysinternals,+AccessChk",
+      "lab": "https://google.com/search?q=Windows+Tools:+Sysinternals,+AccessChk"
+    },
+    {
+      "day": 56,
+      "date": "2025-09-07",
+      "title": "Day 56: Windows Privilege Escalation",
+      "task": "Checklist Review + Scenario Practice",
+      "video": "https://youtube.com/results?search_query=Checklist+Review+++Scenario+Practice",
+      "lab": "https://google.com/search?q=Checklist+Review+++Scenario+Practice"
+    },
+    {
+      "day": 57,
+      "date": "2025-09-08",
+      "title": "Day 57: API Hacking",
+      "task": "Intro to APIs: REST, JSON, Tokens",
+      "video": "https://youtube.com/results?search_query=Intro+to+APIs:+REST,+JSON,+Tokens",
+      "lab": "https://google.com/search?q=Intro+to+APIs:+REST,+JSON,+Tokens"
+    },
+    {
+      "day": 58,
+      "date": "2025-09-09",
+      "title": "Day 58: API Hacking",
+      "task": "Testing APIs with Postman + Burp",
+      "video": "https://youtube.com/results?search_query=Testing+APIs+with+Postman+++Burp",
+      "lab": "https://google.com/search?q=Testing+APIs+with+Postman+++Burp"
+    },
+    {
+      "day": 59,
+      "date": "2025-09-10",
+      "title": "Day 59: API Hacking",
+      "task": "Broken Auth, Rate Limits, IDOR",
+      "video": "https://youtube.com/results?search_query=Broken+Auth,+Rate+Limits,+IDOR",
+      "lab": "https://google.com/search?q=Broken+Auth,+Rate+Limits,+IDOR"
+    },
+    {
+      "day": 60,
+      "date": "2025-09-11",
+      "title": "Day 60: API Hacking",
+      "task": "JWT Manipulation & Token Leaks",
+      "video": "https://youtube.com/results?search_query=JWT+Manipulation+&+Token+Leaks",
+      "lab": "https://google.com/search?q=JWT+Manipulation+&+Token+Leaks"
+    },
+    {
+      "day": 61,
+      "date": "2025-09-12",
+      "title": "Day 61: API Hacking",
+      "task": "CORS Misconfig & WebSockets",
+      "video": "https://youtube.com/results?search_query=CORS+Misconfig+&+WebSockets",
+      "lab": "https://google.com/search?q=CORS+Misconfig+&+WebSockets"
+    },
+    {
+      "day": 62,
+      "date": "2025-09-13",
+      "title": "Day 62: API Hacking",
+      "task": "GraphQL Hacking Basics",
+      "video": "https://youtube.com/results?search_query=GraphQL+Hacking+Basics",
+      "lab": "https://google.com/search?q=GraphQL+Hacking+Basics"
+    },
+    {
+      "day": 63,
+      "date": "2025-09-14",
+      "title": "Day 63: API Hacking",
+      "task": "API Labs: OWASP + PentesterLab",
+      "video": "https://youtube.com/results?search_query=API+Labs:+OWASP+++PentesterLab",
+      "lab": "https://tryhackme.com/"
+    },
+    {
+      "day": 64,
+      "date": "2025-09-15",
+      "title": "Day 64: Brute Force + Password Attacks",
+      "task": "Intro to Wordlists + Tools (Hydra, Burp Intruder)",
+      "video": "https://youtube.com/results?search_query=Intro+to+Wordlists+++Tools+(Hydra,+Burp+Intruder)",
+      "lab": "https://google.com/search?q=Intro+to+Wordlists+++Tools+(Hydra,+Burp+Intruder)"
+    },
+    {
+      "day": 65,
+      "date": "2025-09-16",
+      "title": "Day 65: Brute Force + Password Attacks",
+      "task": "Online Brute Force vs Dictionary Attacks",
+      "video": "https://youtube.com/results?search_query=Online+Brute+Force+vs+Dictionary+Attacks",
+      "lab": "https://google.com/search?q=Online+Brute+Force+vs+Dictionary+Attacks"
+    },
+    {
+      "day": 66,
+      "date": "2025-09-17",
+      "title": "Day 66: Brute Force + Password Attacks",
+      "task": "Offline Hash Cracking (John, Hashcat)",
+      "video": "https://youtube.com/results?search_query=Offline+Hash+Cracking+(John,+Hashcat)",
+      "lab": "https://google.com/search?q=Offline+Hash+Cracking+(John,+Hashcat)"
+    },
+    {
+      "day": 67,
+      "date": "2025-09-18",
+      "title": "Day 67: Brute Force + Password Attacks",
+      "task": "Cracking Web Login Forms",
+      "video": "https://youtube.com/results?search_query=Cracking+Web+Login+Forms",
+      "lab": "https://google.com/search?q=Cracking+Web+Login+Forms"
+    },
+    {
+      "day": 68,
+      "date": "2025-09-19",
+      "title": "Day 68: Brute Force + Password Attacks",
+      "task": "Bypassing Rate Limits + Captchas",
+      "video": "https://youtube.com/results?search_query=Bypassing+Rate+Limits+++Captchas",
+      "lab": "https://google.com/search?q=Bypassing+Rate+Limits+++Captchas"
+    },
+    {
+      "day": 69,
+      "date": "2025-09-20",
+      "title": "Day 69: Brute Force + Password Attacks",
+      "task": "Credential Stuffing via Burp",
+      "video": "https://youtube.com/results?search_query=Credential+Stuffing+via+Burp",
+      "lab": "https://google.com/search?q=Credential+Stuffing+via+Burp"
+    },
+    {
+      "day": 70,
+      "date": "2025-09-21",
+      "title": "Day 70: Brute Force + Password Attacks",
+      "task": "Practice CTF Box",
+      "video": "https://youtube.com/results?search_query=Practice+CTF+Box",
+      "lab": "https://google.com/search?q=Practice+CTF+Box"
+    },
+    {
+      "day": 71,
+      "date": "2025-09-22",
+      "title": "Day 71: CTF Labs + Real Practice",
+      "task": "TryHackMe: Pick 1 Medium Box",
+      "video": "https://youtube.com/results?search_query=TryHackMe:+Pick+1+Medium+Box",
+      "lab": "https://tryhackme.com/"
+    },
+    {
+      "day": 72,
+      "date": "2025-09-23",
+      "title": "Day 72: CTF Labs + Real Practice",
+      "task": "HackTheBox: Pick 1 Easy + 1 Medium Box",
+      "video": "https://youtube.com/results?search_query=HackTheBox:+Pick+1+Easy+++1+Medium+Box",
+      "lab": "https://google.com/search?q=HackTheBox:+Pick+1+Easy+++1+Medium+Box"
+    },
+    {
+      "day": 73,
+      "date": "2025-09-24",
+      "title": "Day 73: CTF Labs + Real Practice",
+      "task": "Walkthrough Analysis: How Pros Solve",
+      "video": "https://youtube.com/results?search_query=Walkthrough+Analysis:+How+Pros+Solve",
+      "lab": "https://google.com/search?q=Walkthrough+Analysis:+How+Pros+Solve"
+    },
+    {
+      "day": 74,
+      "date": "2025-09-25",
+      "title": "Day 74: CTF Labs + Real Practice",
+      "task": "Write Your First Report",
+      "video": "https://youtube.com/results?search_query=Write+Your+First+Report",
+      "lab": "https://google.com/search?q=Write+Your+First+Report"
+    },
+    {
+      "day": 75,
+      "date": "2025-09-26",
+      "title": "Day 75: CTF Labs + Real Practice",
+      "task": "Daily CTF Challenge: Pick One",
+      "video": "https://youtube.com/results?search_query=Daily+CTF+Challenge:+Pick+One",
+      "lab": "https://google.com/search?q=Daily+CTF+Challenge:+Pick+One"
+    },
+    {
+      "day": 76,
+      "date": "2025-09-27",
+      "title": "Day 76: CTF Labs + Real Practice",
+      "task": "Explore VulnHub Manual Exploit Box",
+      "video": "https://youtube.com/results?search_query=Explore+VulnHub+Manual+Exploit+Box",
+      "lab": "https://google.com/search?q=Explore+VulnHub+Manual+Exploit+Box"
+    },
+    {
+      "day": 77,
+      "date": "2025-09-28",
+      "title": "Day 77: CTF Labs + Real Practice",
+      "task": "Review: CTF Writeups",
+      "video": "https://youtube.com/results?search_query=Review:+CTF+Writeups",
+      "lab": "https://google.com/search?q=Review:+CTF+Writeups"
+    },
+    {
+      "day": 78,
+      "date": "2025-09-29",
+      "title": "Day 78: Final Review + Job Prep",
+      "task": "Write a Full Engagement Report",
+      "video": "https://youtube.com/results?search_query=Write+a+Full+Engagement+Report",
+      "lab": "https://google.com/search?q=Write+a+Full+Engagement+Report"
+    },
+    {
+      "day": 79,
+      "date": "2025-09-30",
+      "title": "Day 79: Final Review + Job Prep",
+      "task": "Checklist: Tools, Mindsets, Tactics",
+      "video": "https://youtube.com/results?search_query=Checklist:+Tools,+Mindsets,+Tactics",
+      "lab": "https://google.com/search?q=Checklist:+Tools,+Mindsets,+Tactics"
+    },
+    {
+      "day": 80,
+      "date": "2025-10-01",
+      "title": "Day 80: Final Review + Job Prep",
+      "task": "Mock Interview Questions (Technical)",
+      "video": "https://youtube.com/results?search_query=Mock+Interview+Questions+(Technical)",
+      "lab": "https://google.com/search?q=Mock+Interview+Questions+(Technical)"
+    },
+    {
+      "day": 81,
+      "date": "2025-10-02",
+      "title": "Day 81: Final Review + Job Prep",
+      "task": "Bug Bounty Platforms Overview",
+      "video": "https://youtube.com/results?search_query=Bug+Bounty+Platforms+Overview",
+      "lab": "https://google.com/search?q=Bug+Bounty+Platforms+Overview"
+    },
+    {
+      "day": 82,
+      "date": "2025-10-03",
+      "title": "Day 82: Final Review + Job Prep",
+      "task": "Job Hunting Tips for Pentesters",
+      "video": "https://youtube.com/results?search_query=Job+Hunting+Tips+for+Pentesters",
+      "lab": "https://google.com/search?q=Job+Hunting+Tips+for+Pentesters"
+    },
+    {
+      "day": 83,
+      "date": "2025-10-04",
+      "title": "Day 83: Final Review + Job Prep",
+      "task": "Final Exam Lab Day (Your Pick)",
+      "video": "https://youtube.com/results?search_query=Final+Exam+Lab+Day+(Your+Pick)",
+      "lab": "https://tryhackme.com/"
+    },
+    {
+      "day": 84,
+      "date": "2025-10-05",
+      "title": "Day 84: Final Review + Job Prep",
+      "task": "Rest + Reflect + Next Steps",
+      "video": "https://youtube.com/results?search_query=Rest+++Reflect+++Next+Steps",
+      "lab": "https://google.com/search?q=Rest+++Reflect+++Next+Steps"
+    }
+  ]
+}
