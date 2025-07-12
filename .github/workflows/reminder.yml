@@ -22,4 +22,7 @@ jobs:
       run: pip install requests
 
     - name: Run reminder script
+      env:
+        TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+        CHAT_ID: ${{ secrets.CHAT_ID }}
       run: python send_reminder.py
