@@ -44,7 +44,9 @@ payload = {
 }
 requests.post(url, json=payload)
 
-if current_day <= len(roadmap):
+# ✅ After sending the message
+if progress["current_day"] < len(roadmap):
     progress["current_day"] += 1
     with open("progress.json", "w") as f:
         json.dump(progress, f)
+
